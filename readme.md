@@ -78,14 +78,14 @@
     - The style that we are applying on the breakpoint will remain the same for all the breakpoints above it.
       and the will change for all the breakpoints below it.
       - Ex: 
-            ```
-                X-small                       0px   - 575px               [ col-* ]        col-lg-12   col-lg-12    col-lg-12
-                small                         576px - 767px               [ col-sm-* ]     col-lg-12   col-lg-12    col-lg-12
-                Medium                        768px - 991px               [ col-md-* ]     col-lg-12   col-lg-12    col-lg-12
-                Large                         992px - 1192px              [ col-lg-* ]     col-lg-4    col-lg-6     col-lg-2
-                Extra Large                   1200px - 1399px             [ col-xl-* ]
-                Extra Extra Large             1400px - Infinite           [ col-xxl-* ]
-            ```
+        ```
+            X-small                  0px   - 575px               [ col-* ]        col-lg-12   col-lg-12    col-lg-12
+            small                    576px - 767px               [ col-sm-* ]     col-lg-12   col-lg-12    col-lg-12
+            Medium                   768px - 991px               [ col-md-* ]     col-lg-12   col-lg-12    col-lg-12
+            Large                    992px - 1192px              [ col-lg-* ]     col-lg-4    col-lg-6     col-lg-2
+            Extra Large              1200px - 1399px             [ col-xl-* ]
+            Extra Extra Large        1400px - Infinite           [ col-xxl-* ]
+        ```
 
 
 
