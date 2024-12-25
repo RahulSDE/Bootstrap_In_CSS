@@ -72,12 +72,12 @@
                     <div class="col-12"></div>
                 </div>
             </div>
+        ```
     - **<div class="col-12"></div>** The class **col-12** combines all the 12 column into a single div.
     - Hence, we can combine these 12 columns in whichever way we want.
     - The style that we are applying on the breakpoint will remain the same for all the breakpoints above it.
       and the will change for all the breakpoints below it.
       - Ex: 
-
             ```
                 X-small                       0px   - 575px               [ col-* ]        col-lg-12   col-lg-12    col-lg-12
                 small                         576px - 767px               [ col-sm-* ]     col-lg-12   col-lg-12    col-lg-12
